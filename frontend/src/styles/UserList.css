@@ -1,0 +1,12 @@
+
+.user-list {
+    flex: 1;
+    overflow-y: auto;
+  }
+  
+ 
+  .user-item.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
