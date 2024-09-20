@@ -41,7 +41,11 @@ function App() {
       return 'I am a bot, but I am doing well. How about you?';
     } else if (lowerCaseInput.includes('where do you ')) {
       return 'Sorry, but I am not sharing my information.';
-    } else {
+    } else if (lowerCaseInput.includes('hi , kese h ')) {
+      return 'I am a bot, but I am doing well. How about you?';
+    }  
+    
+    else {
       return 'Sorry, I did not understand that. Can you please rephrase?';
     }
   };
