@@ -43,6 +43,8 @@ function App() {
       return 'Sorry, but I am not sharing my information.';
     } else if (lowerCaseInput.includes('hi , kese h ')) {
       return 'I am a bot, but I am doing well. How about you?';
+    }  else if (lowerCaseInput.includes('kha rahte h ap  ')) {
+      return 'sorry i am not share my personal infromation ';
     }  
     
     else {
