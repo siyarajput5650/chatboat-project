@@ -9,7 +9,7 @@ function App() {
   const [messages, setMessages] = useState([]);
 
   const [users] = useState([
-    { name: 'Sumit Patel', avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoImpG6ePmcPlFPMSikVNlsop4yB-CKoW1SQ&s' },
+    { name: 'Shera Patel', avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoImpG6ePmcPlFPMSikVNlsop4yB-CKoW1SQ&s' },
     { name: 'Siya Rajput', avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtsWfy6DN_Dx_R8KwZQvbfWrSJ4cdVI7_Pg&s' },
     { name: 'Swati', avatar: 'https://marketplace.canva.com/EAFltPVX5QA/1/0/1600w/canva-cute-cartoon-anime-girl-avatar-ZHBl2NicxII.jpg' },
     { name: 'Iksha', avatar: 'https://img.freepik.com/premium-vector/beauty-girl-avatar-character-simple-vector_855703-380.jpg' },
